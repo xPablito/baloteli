@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-07-14 00:08:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-07-13 23:59:10 +0200"
@@ -44,6 +50,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-07-13 23:59:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-07-14 00:08:21 +0200"
     },
     "done": true
   },
@@ -62,6 +74,18 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-07-13 23:59:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-07-14 00:08:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-07-14 00:08:21 +0200"
     },
     "done": true
   },
@@ -95,9 +119,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-07-14 00:08:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-07-13 23:59:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-07-14 00:08:21 +0200"
     },
     "done": true
   },
@@ -106,7 +142,8 @@
       "minecraft:taiga": "2021-07-13 23:40:11 +0200",
       "minecraft:taiga_hills": "2021-07-13 23:40:57 +0200",
       "minecraft:beach": "2021-07-13 23:58:12 +0200",
-      "minecraft:river": "2021-07-13 23:47:53 +0200"
+      "minecraft:river": "2021-07-13 23:47:53 +0200",
+      "minecraft:swamp": "2021-07-14 00:08:16 +0200"
     },
     "done": false
   },

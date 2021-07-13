@@ -1,4 +1,3 @@
-@echo off
 color 0a
 git add .
 echo Guardando...

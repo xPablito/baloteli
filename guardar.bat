@@ -1,4 +1,3 @@
 git add .
-git commit -m < date /t
-git push origin master 
-pause
+git commit -m "Autosave"
+git push origin master

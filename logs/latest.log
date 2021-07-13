@@ -1,0 +1,283 @@
+[23:39:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:39:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:39:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:39:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:39:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:39:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:39:26] [main/INFO]: Reloading ResourceManager: Default
+[23:39:27] [Worker-Main-12/INFO]: Loaded 7 recipes
+[23:39:27] [Worker-Main-12/INFO]: Loaded 1137 advancements
+[23:39:29] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[23:39:29] [Server thread/INFO]: Loading properties
+[23:39:29] [Server thread/INFO]: Default game type: SURVIVAL
+[23:39:29] [Server thread/INFO]: Generating keypair
+[23:39:29] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Controlador no válido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:271) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:297) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:178) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at aas$1.run(SourceFile:101) [server.jar:?]
+[23:39:29] [Server thread/INFO]: Starting Minecraft server on 192.168.1.128:25565
+[23:39:29] [Server thread/INFO]: Using default channel type
+[23:39:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:39:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:39:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:39:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:39:29] [Server thread/INFO]: Preparing level "Baloteli World"
+[23:39:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:39:34] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:39:34] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:39:35] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:39:35] [Worker-Main-11/INFO]: Preparing spawn area: 1%
+[23:39:36] [Worker-Main-11/INFO]: Preparing spawn area: 2%
+[23:39:36] [Worker-Main-13/INFO]: Preparing spawn area: 3%
+[23:39:37] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[23:39:37] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[23:39:38] [Worker-Main-13/INFO]: Preparing spawn area: 8%
+[23:39:38] [Worker-Main-12/INFO]: Preparing spawn area: 9%
+[23:39:39] [Worker-Main-11/INFO]: Preparing spawn area: 11%
+[23:39:39] [Worker-Main-10/INFO]: Preparing spawn area: 11%
+[23:39:40] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[23:39:40] [Worker-Main-8/INFO]: Preparing spawn area: 15%
+[23:39:41] [Worker-Main-13/INFO]: Preparing spawn area: 18%
+[23:39:41] [Worker-Main-12/INFO]: Preparing spawn area: 18%
+[23:39:42] [Worker-Main-11/INFO]: Preparing spawn area: 18%
+[23:39:42] [Worker-Main-10/INFO]: Preparing spawn area: 25%
+[23:39:43] [Worker-Main-13/INFO]: Preparing spawn area: 25%
+[23:39:43] [Worker-Main-14/INFO]: Preparing spawn area: 25%
+[23:39:44] [Worker-Main-13/INFO]: Preparing spawn area: 30%
+[23:39:44] [Worker-Main-10/INFO]: Preparing spawn area: 34%
+[23:39:45] [Worker-Main-9/INFO]: Preparing spawn area: 37%
+[23:39:45] [Worker-Main-12/INFO]: Preparing spawn area: 41%
+[23:39:46] [Worker-Main-9/INFO]: Preparing spawn area: 44%
+[23:39:46] [Worker-Main-11/INFO]: Preparing spawn area: 47%
+[23:39:47] [Worker-Main-8/INFO]: Preparing spawn area: 52%
+[23:39:47] [Worker-Main-8/INFO]: Preparing spawn area: 55%
+[23:39:48] [Worker-Main-13/INFO]: Preparing spawn area: 59%
+[23:39:48] [Worker-Main-11/INFO]: Preparing spawn area: 59%
+[23:39:49] [Worker-Main-10/INFO]: Preparing spawn area: 67%
+[23:39:49] [Worker-Main-11/INFO]: Preparing spawn area: 68%
+[23:39:50] [Worker-Main-12/INFO]: Preparing spawn area: 73%
+[23:39:50] [Worker-Main-12/INFO]: Preparing spawn area: 77%
+[23:39:51] [Worker-Main-10/INFO]: Preparing spawn area: 77%
+[23:39:51] [Worker-Main-11/INFO]: Preparing spawn area: 86%
+[23:39:52] [Worker-Main-9/INFO]: Preparing spawn area: 92%
+[23:39:52] [Server thread/INFO]: Time elapsed: 18443 ms
+[23:39:52] [Server thread/INFO]: Done (22.617s)! For help, type "help"
+[23:39:52] [Server thread/INFO]: miguisaurio[/77.230.210.206:56510] logged in with entity id 114 at (33.5, 72.0, 1.5)
+[23:39:52] [Server thread/INFO]: miguisaurio joined the game
+[23:40:11] [Server thread/INFO]: xPablito[/192.168.1.128:49404] logged in with entity id 374 at (22.5, 76.0, 1.5)
+[23:40:11] [Server thread/INFO]: xPablito joined the game
+[23:40:21] [Server thread/INFO]: [xPablito: Made miguisaurio no longer a server operator]
+[23:40:21] [Server thread/INFO]: [xPablito: Made miguisaurio no longer a server operator]
+[23:40:25] [Server thread/INFO]: miguisaurio lost connection: Disconnected
+[23:40:25] [Server thread/INFO]: miguisaurio left the game
+[23:41:22] [Server thread/INFO]: Made xPablito a server operator
+[23:41:26] [Server thread/INFO]: [xPablito: Set own game mode to Creative Mode]
+[23:41:30] [Server thread/INFO]: [xPablito: Gave 1 [Command Block] to xPablito]
+[23:41:34] [Server thread/INFO]: miguisaurio[/77.230.210.206:61813] logged in with entity id 820 at (37.49423168938831, 77.0, -1.699999988079071)
+[23:41:34] [Server thread/INFO]: miguisaurio joined the game
+[23:41:41] [Server thread/INFO]: [xPablito: Created new objective [Vida]]
+[23:41:42] [Server thread/INFO]: Cepa_e36[/83.61.78.236:51680] logged in with entity id 869 at (38.5, 72.0, 2.5)
+[23:41:42] [Server thread/INFO]: Cepa_e36 joined the game
+[23:41:54] [Server thread/INFO]: [xPablito: Set display slot belowName to show objective Vida]
+[23:41:59] [Server thread/INFO]: [xPablito: Set display slot list to show objective Vida]
+[23:42:29] [Server thread/INFO]: [xPablito: Created team [Rojo]]
+[23:42:45] [Server thread/INFO]: [xPablito: Added miguisaurio to team [Rojo]]
+[23:42:55] [Server thread/INFO]: [xPablito: Updated the color for team [Rojo] to red]
+[23:42:58] [Server thread/INFO]: [xPablito: Teleported xPablito to miguisaurio]
+[23:42:58] [Server thread/WARN]: xPablito moved too quickly! -40.57303508815173,-33.11650136792812,33.080083907337226
+[23:42:58] [Server thread/WARN]: xPablito moved too quickly! -40.57303508815173,-33.11650136792812,33.080083907337226
+[23:42:58] [Server thread/WARN]: xPablito moved too quickly! -40.57303508815173,-33.11650136792812,33.080083907337226
+[23:42:58] [Server thread/WARN]: xPablito moved too quickly! -40.57303508815173,-33.11650136792812,33.080083907337226
+[23:43:02] [Server thread/INFO]: miguisaurio was slain by Cepa_e36
+[23:43:10] [Server thread/INFO]: cesxx[/83.45.78.121:52894] logged in with entity id 1064 at (26.5, 71.0, 8.5)
+[23:43:10] [Server thread/INFO]: cesxx joined the game
+[23:43:29] [Server thread/INFO]: Cepa_e36 was slain by miguisaurio
+[23:43:30] [Server thread/INFO]: [xPablito: Created team [Amarillo]]
+[23:43:37] [Server thread/INFO]: [xPablito: Added cesxx to team [Amarillo]]
+[23:43:46] [Server thread/INFO]: [xPablito: Updated the color for team [Amarillo] to gold]
+[23:44:00] [Server thread/INFO]: [xPablito: Created new objective [Muertes]]
+[23:44:08] [Server thread/INFO]: [xPablito: Set display slot sidebar to show objective Muertes]
+[23:44:12] [Server thread/INFO]: Trabis[/81.34.19.19:57782] logged in with entity id 1438 at (33.5, 82.0, -6.5)
+[23:44:12] [Server thread/INFO]: Trabis joined the game
+[23:44:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-49, y=54, z=102} gg{x=-49, y=55, z=102}
+[23:44:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-49, y=54, z=102} gg{x=-49, y=55, z=102}
+[23:44:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-51, y=53, z=103} gg{x=-50, y=51, z=103}
+[23:44:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-51, y=53, z=103} gg{x=-50, y=51, z=103}
+[23:44:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-51, y=53, z=103} gg{x=-50, y=51, z=103}
+[23:44:35] [Server thread/INFO]: [xPablito: Created team [Rosa]]
+[23:44:36] [Server thread/INFO]: Cepa_e36 drowned
+[23:44:42] [Server thread/INFO]: Trabis lost connection: Disconnected
+[23:44:42] [Server thread/INFO]: Trabis left the game
+[23:44:50] [Server thread/INFO]: [xPablito: Added xPablito to team [Rosa]]
+[23:45:01] [Server thread/INFO]: Trabis[/81.34.19.19:57804] logged in with entity id 2004 at (33.5, 82.0, -6.5)
+[23:45:01] [Server thread/INFO]: Trabis joined the game
+[23:45:08] [Server thread/INFO]: [xPablito: Added Cepa_e36 to team [Rosa]]
+[23:45:15] [Server thread/INFO]: miguisaurio has made the advancement [Stone Age]
+[23:45:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=35, y=82, z=-14}
+[23:45:20] [Server thread/INFO]: [xPablito: Updated the color for team [Rosa] to light_purple]
+[23:45:22] [Server thread/INFO]: miguisaurio has made the advancement [Getting an Upgrade]
+[23:45:34] [Server thread/INFO]: [xPablito: Created team [Azul]]
+[23:45:35] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=35, y=82, z=-14}
+[23:45:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=35, y=82, z=-14}
+[23:45:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=35, y=82, z=-12}
+[23:45:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=82, z=-9}
+[23:45:49] [Server thread/INFO]: [xPablito: Added Trabis to team [Azul]]
+[23:45:58] [Server thread/INFO]: [xPablito: Updated the color for team [Azul] to blue]
+[23:46:05] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-11}
+[23:46:07] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-11}
+[23:46:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-10}
+[23:46:09] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-11}
+[23:46:10] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-11}
+[23:46:10] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-10}
+[23:46:10] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:46:11] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-10}
+[23:46:12] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-12}
+[23:46:12] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-13}
+[23:46:12] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-12}
+[23:46:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:46:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-10}
+[23:46:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-10}
+[23:46:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=37, y=81, z=-10}
+[23:46:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=37, y=81, z=-10}
+[23:46:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-10}
+[23:46:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=81, z=-10}
+[23:46:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:46:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-10}
+[23:46:18] [Server thread/INFO]: [xPablito: Teleported xPablito to Trabis]
+[23:46:18] [Server thread/WARN]: xPablito moved too quickly! -49.436006740034124,7.0,-18.761578998029144
+[23:46:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-9}
+[23:46:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-9}
+[23:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-9}
+[23:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-10}
+[23:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-10}
+[23:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=37, y=81, z=-10}
+[23:46:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=82, z=-9}
+[23:46:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=38, y=82, z=-9}
+[23:46:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:46:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:46:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:46:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-11}
+[23:46:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-14}
+[23:46:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-14}
+[23:46:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-15}
+[23:46:23] [Server thread/INFO]: [xPablito: Set own game mode to Survival Mode]
+[23:46:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-13}
+[23:46:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-13}
+[23:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-14}
+[23:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-14}
+[23:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-12}
+[23:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-12}
+[23:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-13}
+[23:46:26] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-13}
+[23:46:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-14}
+[23:46:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-14}
+[23:46:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=41, y=81, z=-12}
+[23:46:28] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:28] [Server thread/INFO]: [xPablito: Set own game mode to Creative Mode]
+[23:46:34] [Server thread/INFO]: cesxx has made the advancement [Stone Age]
+[23:46:36] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=43, y=81, z=-12}
+[23:46:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=41, y=81, z=-12}
+[23:46:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=41, y=81, z=-12}
+[23:46:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=41, y=81, z=-12}
+[23:46:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=41, y=81, z=-12}
+[23:46:44] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:44] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=43, y=81, z=-12}
+[23:46:45] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:45] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=43, y=81, z=-12}
+[23:46:46] [Server thread/INFO]: [xPablito: Set Trabis's game mode to Creative Mode]
+[23:46:55] [Server thread/INFO]: [xPablito: Set Trabis's game mode to Survival Mode]
+[23:46:55] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=43, y=81, z=-12}
+[23:46:56] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=42, y=81, z=-12}
+[23:46:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=41, y=81, z=-9}
+[23:46:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=41, y=81, z=-8}
+[23:47:03] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=35, y=82, z=-14}
+[23:47:05] [Server thread/INFO]: Trabis lost connection: Disconnected
+[23:47:05] [Server thread/INFO]: Trabis left the game
+[23:47:15] [Server thread/INFO]: Trabis[/81.34.19.19:57810] logged in with entity id 2744 at (37.74318640718846, 81.0, -13.682627039137646)
+[23:47:15] [Server thread/INFO]: Trabis joined the game
+[23:47:16] [Server thread/INFO]: <Cepa_e36> >>>>>>>>>>>>>
+[23:47:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-12}
+[23:47:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=35, y=83, z=-14}
+[23:47:26] [Server thread/INFO]: Trabis lost connection: Disconnected
+[23:47:26] [Server thread/INFO]: Trabis left the game
+[23:47:57] [Server thread/INFO]: Cepa_e36 has made the advancement [Stone Age]
+[23:48:04] [Server thread/INFO]: cesxx has made the advancement [Getting an Upgrade]
+[23:48:08] [Server thread/INFO]: [xPablito: Created team [Violeta]]
+[23:48:16] [Server thread/INFO]: [xPablito: Added xPablito to team [Violeta]]
+[23:48:26] [Server thread/INFO]: [xPablito: Added xPablito to team [Violeta]]
+[23:48:46] [Server thread/INFO]: Cepa_e36 has made the advancement [Getting an Upgrade]
+[23:49:34] [Server thread/INFO]: Trabis[/81.34.19.19:57876] logged in with entity id 3395 at (38.99429436709932, 82.0, -13.241943198936047)
+[23:49:34] [Server thread/INFO]: Trabis joined the game
+[23:49:45] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-12}
+[23:49:45] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-12}
+[23:49:45] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-12}
+[23:49:56] [Server thread/INFO]: [xPablito: Updated the color for team [Violeta] to dark_purple]
+[23:49:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=36, y=82, z=-6}
+[23:50:06] [Server thread/INFO]: miguisaurio has made the advancement [Monster Hunter]
+[23:50:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:50:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=81, z=-10}
+[23:50:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-11}
+[23:50:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-12}
+[23:50:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-10}
+[23:50:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-11}
+[23:50:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=81, z=-10}
+[23:50:24] [Server thread/INFO]: [xPablito: Set [Muertes] for 5 entities to 0]
+[23:50:33] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=37, y=82, z=-7}
+[23:50:49] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=37, y=81, z=-6}
+[23:50:56] [Server thread/INFO]: [xPablito: Teleported xPablito to Trabis]
+[23:50:56] [Server thread/WARN]: xPablito moved too quickly! 8.397481365684062,5.121296840539202,-39.38258092988065
+[23:50:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=31, y=81, z=-6}
+[23:51:00] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=31, y=80, z=-5}
+[23:51:01] [Server thread/INFO]: [xPablito: Teleported Trabis to xPablito]
+[23:51:04] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=79, z=11}
+[23:51:04] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=80, z=12}
+[23:51:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=78, z=11}
+[23:51:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=43, y=76, z=10}
+[23:51:09] [Server thread/INFO]: [xPablito: Teleported Trabis to xPablito]
+[23:52:06] [Server thread/INFO]: [xPablito: Teleported Trabis to Cepa_e36]
+[23:52:35] [Server thread/INFO]: Trabis was slain by cesxx
+[23:52:56] [Server thread/INFO]: Cepa_e36 has made the advancement [Monster Hunter]
+[23:53:01] [Server thread/INFO]: Trabis was slain by Zombie
+[23:53:07] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=20, y=81, z=-6}
+[23:53:17] [Server thread/INFO]: [xPablito: Teleported Trabis to Cepa_e36]
+[23:53:32] [Server thread/INFO]: miguisaurio has made the advancement [Acquire Hardware]
+[23:53:53] [Server thread/INFO]: [xPablito: Removed team [Violeta]]
+[23:53:56] [Server thread/INFO]: miguisaurio has made the advancement [Isn't It Iron Pick]
+[23:54:01] [Server thread/INFO]: [xPablito: Created team [prueba]]
+[23:54:03] [Server thread/INFO]: <Trabis> nigger
+[23:54:17] [Server thread/INFO]: [xPablito: Updated the color for team [Amarillo] to yellow]
+[23:54:26] [Server thread/INFO]: [xPablito: Created team [Naranja]]
+[23:54:36] [Server thread/INFO]: [xPablito: Updated the color for team [Naranja] to gold]
+[23:54:55] [Server thread/INFO]: [xPablito: Added xPablito to team [Naranja]]
+[23:55:09] [Server thread/INFO]: Trabis has made the advancement [Stone Age]
+[23:56:23] [Server thread/INFO]: cesxx has made the advancement [Monster Hunter]
+[23:58:11] [Server thread/INFO]: [xPablito: Teleported xPablito to miguisaurio]
+[23:58:11] [Server thread/WARN]: xPablito moved too quickly! -79.51650806596687,-66.0,82.45800278945461
+[23:58:28] [Server thread/INFO]: [Cepa_e36: Teleported xPablito to Cepa_e36]
+[23:58:28] [Server thread/WARN]: xPablito moved too quickly! 205.2518229087142,41.799999952316284,-2.25884379488015
+[23:58:28] [Server thread/WARN]: xPablito moved too quickly! 205.2518229087142,41.799999952316284,-2.25884379488015
+[23:58:28] [Server thread/WARN]: xPablito moved too quickly! 205.2518229087142,41.799999952316284,-2.25884379488015
+[23:58:36] [Server thread/INFO]: [xPablito: Made xPablito no longer a server operator]
+[23:58:36] [Server thread/INFO]: [xPablito: Made xPablito no longer a server operator]
+[23:58:36] [Server thread/INFO]: [xPablito: Made xPablito no longer a server operator]
+[23:59:27] [Server thread/INFO]: <miguisaurio> no mireis el chat malandrines
+[23:59:45] [Server thread/INFO]: miguisaurio has made the advancement [Suit Up]

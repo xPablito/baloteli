@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2021-07-14 00:04:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-07-13 23:42:28 +0200"
@@ -83,9 +89,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2021-07-14 00:02:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-07-13 23:42:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2021-07-14 00:02:59 +0200"
     },
     "done": true
   },
@@ -161,9 +179,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2021-07-14 00:02:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-07-13 23:47:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2021-07-14 00:02:17 +0200"
     },
     "done": true
   },
@@ -193,7 +223,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2021-07-13 23:44:06 +0200"
+      "sweet_berries": "2021-07-13 23:44:06 +0200",
+      "cooked_beef": "2021-07-14 00:01:29 +0200"
     },
     "done": false
   },
@@ -281,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2021-07-14 00:04:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2021-07-13 23:51:57 +0200"
@@ -317,6 +354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-07-14 00:02:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-07-13 23:43:11 +0200"
@@ -344,6 +387,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-07-13 23:51:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2021-07-14 00:02:59 +0200"
     },
     "done": true
   },
@@ -429,6 +478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2021-07-14 00:02:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-07-13 23:47:57 +0200"
@@ -486,6 +541,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2021-07-13 23:51:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2021-07-14 00:02:59 +0200"
     },
     "done": true
   },
@@ -551,6 +612,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:witch": "2021-07-14 00:02:17 +0200",
       "minecraft:zombie": "2021-07-13 23:52:56 +0200"
     },
     "done": false
@@ -624,6 +686,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-07-13 23:56:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2021-07-14 00:04:52 +0200"
     },
     "done": true
   },

@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2021-07-14 02:32:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2021-07-14 00:05:33 +0200"
@@ -343,7 +349,8 @@
       "cooked_beef": "2021-07-13 23:51:46 +0200",
       "suspicious_stew": "2021-07-14 01:53:56 +0200",
       "golden_carrot": "2021-07-14 00:32:14 +0200",
-      "cooked_chicken": "2021-07-14 01:39:45 +0200"
+      "cooked_chicken": "2021-07-14 01:39:45 +0200",
+      "carrot": "2021-07-14 02:35:26 +0200"
     },
     "done": false
   },
@@ -365,6 +372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2021-07-14 02:32:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-07-13 23:46:34 +0200"
@@ -374,6 +387,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-07-14 00:10:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-07-14 02:30:23 +0200"
     },
     "done": true
   },
@@ -995,6 +1014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2021-07-14 02:32:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2021-07-14 00:11:13 +0200"
@@ -1307,6 +1332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-07-14 02:30:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-07-14 00:25:01 +0200"
@@ -1376,6 +1407,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2021-07-14 01:46:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-07-14 02:30:23 +0200"
     },
     "done": true
   },
@@ -1586,6 +1623,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2021-07-14 02:13:02 +0200",
+      "minecraft:mountains": "2021-07-14 02:31:15 +0200",
       "minecraft:taiga": "2021-07-13 23:43:10 +0200",
       "minecraft:taiga_hills": "2021-07-14 01:49:59 +0200",
       "minecraft:beach": "2021-07-13 23:44:22 +0200",
@@ -1704,6 +1742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2021-07-14 02:32:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-07-14 01:48:45 +0200"
@@ -1725,6 +1769,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2021-07-14 01:48:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2021-07-14 02:32:47 +0200"
     },
     "done": true
   },

@@ -1,148 +1,69 @@
-[00:00:19] [Server thread/INFO]: Cepa_e36 has made the advancement [Best Friends Forever]
-[00:02:03] [Server thread/INFO]: <xPablito> woki y zhaaldz que color quereis
-[00:02:27] [Server thread/INFO]: Made xPablito a server operator
-[00:02:38] [Server thread/INFO]: Wokero was slain by Enderman
-[00:02:46] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=73, z=8}
-[00:02:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=73, z=8}
-[00:02:48] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=39, y=72, z=8}
-[00:02:48] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=73, z=8}
-[00:02:50] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=73, z=8}
-[00:02:54] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=74, z=8}
-[00:02:54] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=73, z=8}
-[00:02:56] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=73, z=8}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=74, z=8}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=74, z=8}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=74, z=8}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=74, z=8}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=74, z=8}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=74, z=8}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=40, y=74, z=8}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=43, y=74, z=9}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=75, z=10}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=45, y=75, z=10}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=75, z=10}
-[00:02:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=74, z=9}
-[00:02:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=43, y=74, z=9}
-[00:02:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=74, z=9}
-[00:02:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=75, z=10}
-[00:02:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=45, y=75, z=10}
-[00:02:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=45, y=74, z=9}
-[00:02:59] [Server thread/INFO]: [xPablito: Created team [Morado]]
-[00:03:00] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=45, y=75, z=10}
-[00:03:00] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=46, y=76, z=10}
-[00:03:13] [Server thread/INFO]: [xPablito: Updated the color for team [Morado] to dark_purple]
-[00:03:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=79, z=-2}
-[00:03:28] [Server thread/INFO]: [xPablito: Added Wokero to team [Morado]]
-[00:03:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=79, z=-1}
-[00:03:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=79, z=-1}
-[00:03:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=79, z=-1}
-[00:03:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=79, z=-1}
-[00:03:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=79, z=-1}
-[00:03:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=79, z=-1}
-[00:03:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=44, y=79, z=-1}
-[00:03:43] [Server thread/INFO]: [xPablito: Added Wokero to team [Violeta]]
-[00:03:52] [Server thread/INFO]: [xPablito: Removed team [Morado]]
-[00:04:52] [Server thread/INFO]: [xPablito: Created team [AzulClaro]]
-[00:05:01] [Server thread/INFO]: [xPablito: Added Albital28 to team [AzulClaro]]
-[00:05:12] [Server thread/INFO]: [xPablito: Updated the color for team [AzulClaro] to blue]
-[00:05:25] [Server thread/INFO]: [xPablito: Updated the color for team [AzulClaro] to dark_blue]
-[00:05:26] [Server thread/INFO]: [xPablito: Updated the color for team [AzulClaro] to blue]
-[00:05:45] [Server thread/INFO]: [xPablito: Updated the color for team [Azul] to dark_blue]
-[00:06:06] [Server thread/INFO]: [xPablito: Set [Muertes] for Albital28 to 0]
-[00:06:11] [Server thread/INFO]: [xPablito: Made xPablito no longer a server operator]
-[00:06:58] [Server thread/INFO]: Albital28 was blown up by Creeper
-[00:07:37] [Server thread/INFO]: Wokero fell from a high place
-[00:09:34] [Server thread/INFO]: _byRauL_[/93.176.133.71:32689] logged in with entity id 54120 at (110.05952816839944, 50.0, -300.9185272442102)
-[00:09:34] [Server thread/INFO]: _byRauL_ joined the game
-[00:19:48] [Server thread/INFO]: cesxx lost connection: Disconnected
-[00:19:48] [Server thread/INFO]: cesxx left the game
-[00:19:53] [Server thread/INFO]: <Trabis> nigger
-[00:28:16] [Server thread/INFO]: Wokero was poked to death by a sweet berry bush
-[00:29:02] [Server thread/INFO]: Albital28 fell from a high place
-[00:35:41] [Server thread/INFO]: Wokero fell from a high place
-[00:35:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-504, y=76, z=-767} gg{x=-498, y=73, z=-763}
-[00:35:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-504, y=76, z=-767} gg{x=-498, y=73, z=-763}
-[00:35:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-504, y=76, z=-767} gg{x=-498, y=73, z=-763}
-[00:35:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-504, y=76, z=-767} gg{x=-498, y=73, z=-763}
-[00:35:50] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-500, y=73, z=-759} gg{x=-499, y=74, z=-761}
-[00:36:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-519, y=74, z=-744} gg{x=-517, y=75, z=-743}
-[00:37:22] [Server thread/INFO]: Wokero lost connection: Disconnected
-[00:37:22] [Server thread/INFO]: Wokero left the game
-[00:38:45] [Server thread/INFO]: xPablito has made the advancement [Enchanter]
-[00:40:48] [Server thread/INFO]: Cepa_e36 has made the advancement [Take Aim]
-[00:41:30] [Server thread/INFO]: <_byRauL_> -390 / 80 / -821
-[00:44:21] [Server thread/INFO]: cesxx[/83.45.78.121:59029] logged in with entity id 78337 at (76.43926112710308, 64.0, -794.5511709200226)
-[00:44:21] [Server thread/INFO]: cesxx joined the game
-[00:46:35] [Server thread/INFO]: _byRauL_ lost connection: Disconnected
-[00:46:35] [Server thread/INFO]: _byRauL_ left the game
-[00:48:53] [Server thread/INFO]: _byRauL_[/93.176.133.71:32372] logged in with entity id 80566 at (108.54606871036071, 49.0, -306.5459305389894)
-[00:48:53] [Server thread/INFO]: _byRauL_ joined the game
-[00:59:35] [Server thread/INFO]: <Trabis> zZZz
-[00:59:43] [Server thread/INFO]: <cesxx> los cojones
-[01:00:36] [Server thread/INFO]: Made xPablito a server operator
-[01:00:45] [Server thread/INFO]: [xPablito: Added _byRauL_ to team [Amarillo]]
-[01:01:26] [Server thread/INFO]: [xPablito: Added Trabis to team [Rosa]]
-[01:01:29] [Server thread/INFO]: [xPablito: Made xPablito no longer a server operator]
-[01:04:44] [Server thread/INFO]: xPablito has made the advancement [The Parrots and the Bats]
-[01:09:53] [Server thread/INFO]: <Trabis> -390 / 80 / -821
-[01:11:46] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-545, y=97, z=-445} gg{x=-544, y=97, z=-445}
-[01:11:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-547, y=97, z=-442} gg{x=-546, y=98, z=-443}
-[01:11:48] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-546, y=96, z=-442} gg{x=-546, y=97, z=-442}
-[01:16:10] [Server thread/INFO]: <Cepa_e36> administrador, me cago en tus muertos
-[01:16:15] [Server thread/INFO]: <Cepa_e36> te vamos a xafa la cabesa
-[01:20:34] [Server thread/INFO]: cesxx has made the advancement [Not Today, Thank You]
-[01:31:07] [Server thread/INFO]: _byRauL_ has made the advancement [Not Today, Thank You]
-[01:32:01] [Server thread/INFO]: <Trabis> -390 / 80 / -821
-[01:36:33] [Server thread/INFO]: Trabis has made the advancement [The Parrots and the Bats]
-[01:39:05] [Server thread/INFO]: <xPablito> zHaaldz estás vivo? xD
-[01:39:09] [Server thread/INFO]: <Albital28> si
-[01:39:58] [Server thread/INFO]: cesxx was blown up by Creeper
-[01:42:25] [Server thread/INFO]: cesxx was blown up by Creeper
-[01:42:46] [Server thread/INFO]: _byRauL_ was slain by Enderman
-[01:45:18] [Server thread/INFO]: Albital28 lost connection: Disconnected
-[01:45:18] [Server thread/INFO]: Albital28 left the game
-[01:47:00] [Server thread/INFO]: cesxx has made the advancement [A Seedy Place]
-[01:47:03] [Server thread/INFO]: Albital28[/81.39.178.241:59313] logged in with entity id 121372 at (-360.30000001192093, 72.0, -946.488133231118)
-[01:47:03] [Server thread/INFO]: Albital28 joined the game
-[01:59:02] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-386, y=70, z=-709} gg{x=-387, y=70, z=-710}
-[01:59:02] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-386, y=70, z=-709} gg{x=-387, y=70, z=-710}
-[01:59:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-317, y=67, z=-651} gg{x=-316, y=65, z=-651}
-[01:59:54] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=131, y=17, z=-553} gg{x=131, y=17, z=-554}
-[02:02:26] [Server thread/INFO]: Albital28 has made the advancement [Sweet Dreams]
-[02:04:48] [Server thread/INFO]: Cepa_e36 was blown up by Creeper
-[02:07:11] [Server thread/INFO]: cesxx has made the advancement [Ice Bucket Challenge]
-[02:12:56] [Server thread/INFO]: Trabis has made the advancement [A Seedy Place]
-[02:19:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-441, y=65, z=-627} gg{x=-440, y=63, z=-627}
-[02:21:30] [Server thread/INFO]: cesxx has made the advancement [The Parrots and the Bats]
-[02:21:55] [Server thread/INFO]: cesxx has made the advancement [Tactical Fishing]
-[02:24:33] [Server thread/INFO]: <Cepa_e36> zzzzzzzzzzzzzzzzzzz
-[02:24:39] [Server thread/INFO]: <Cepa_e36> fap fap fap fap fap fap
-[02:24:45] [Server thread/INFO]: <xPablito> ?¿?¿?¿¿
-[02:25:42] [Server thread/INFO]: cesxx was slain by Zombie
-[02:29:04] [Server thread/INFO]: _byRauL_ lost connection: Disconnected
-[02:29:04] [Server thread/INFO]: _byRauL_ left the game
-[02:33:51] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-368, y=66, z=-632} gg{x=-364, y=66, z=-634}
-[02:35:26] [Server thread/INFO]: cesxx has made the advancement [Take Aim]
-[02:40:02] [Server thread/INFO]: xPablito has made the advancement [A Seedy Place]
-[02:40:51] [Server thread/INFO]: <Trabis> zzzz
-[02:42:18] [Server thread/INFO]: <Trabis> -390 / 80 / -821
-[02:45:47] [Server thread/INFO]: <Trabis> -390 / 80 / -821
-[03:10:56] [Server thread/INFO]: <Trabis> -390 / 80 / -821
-[03:12:14] [Server thread/INFO]: Trabis lost connection: Disconnected
-[03:12:14] [Server thread/INFO]: Trabis left the game
-[03:12:45] [Server thread/INFO]: Cepa_e36 lost connection: Disconnected
-[03:12:45] [Server thread/INFO]: Cepa_e36 left the game
-[03:18:50] [Server thread/INFO]: cesxx lost connection: Disconnected
-[03:18:50] [Server thread/INFO]: cesxx left the game
-[03:19:27] [Server thread/INFO]: xPablito lost connection: Disconnected
-[03:19:27] [Server thread/INFO]: xPablito left the game
-[03:19:30] [Server thread/INFO]: xPablito[/192.168.1.128:49804] logged in with entity id 166233 at (-308.8517766970173, 80.0, -826.0151490287992)
-[03:19:30] [Server thread/INFO]: xPablito joined the game
-[03:20:39] [Server thread/INFO]: Albital28 lost connection: Disconnected
-[03:20:39] [Server thread/INFO]: Albital28 left the game
-[03:23:50] [Server thread/INFO]: xPablito lost connection: Disconnected
-[03:23:50] [Server thread/INFO]: xPablito left the game
-[03:24:04] [Server thread/INFO]: xPablito[/192.168.1.128:49861] logged in with entity id 168380 at (-308.69999998807907, 82.0, -811.3000000119209)
-[03:24:04] [Server thread/INFO]: xPablito joined the game
-[03:29:47] [Server thread/INFO]: xPablito lost connection: Disconnected
-[03:29:47] [Server thread/INFO]: xPablito left the game
+[11:06:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:06:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:06:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:06:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:06:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:06:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:06:59] [main/INFO]: Reloading ResourceManager: Default
+[11:07:00] [Worker-Main-10/INFO]: Loaded 7 recipes
+[11:07:01] [Worker-Main-10/INFO]: Loaded 1137 advancements
+[11:07:03] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[11:07:03] [Server thread/INFO]: Loading properties
+[11:07:03] [Server thread/INFO]: Default game type: SURVIVAL
+[11:07:03] [Server thread/INFO]: Generating keypair
+[11:07:03] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Controlador no válido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:271) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:297) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:178) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at aas$1.run(SourceFile:101) [server.jar:?]
+[11:07:03] [Server thread/INFO]: Starting Minecraft server on 192.168.1.128:25565
+[11:07:03] [Server thread/INFO]: Using default channel type
+[11:07:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:07:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:07:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:07:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:07:04] [Server thread/INFO]: Preparing level "Baloteli World"
+[11:07:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:07:04] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[11:07:04] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[11:07:05] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[11:07:05] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[11:07:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:07:06] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[11:07:07] [Worker-Main-13/INFO]: Preparing spawn area: 15%
+[11:07:07] [Worker-Main-11/INFO]: Preparing spawn area: 30%
+[11:07:08] [Worker-Main-9/INFO]: Preparing spawn area: 52%
+[11:07:08] [Worker-Main-12/INFO]: Preparing spawn area: 98%
+[11:07:09] [Server thread/INFO]: Time elapsed: 4956 ms
+[11:07:09] [Server thread/INFO]: Done (5.100s)! For help, type "help"
+[11:27:08] [Server thread/INFO]: Albital28[/81.39.178.241:64936] logged in with entity id 35 at (-358.16418376669543, 78.0, -928.5690822517248)
+[11:27:08] [Server thread/INFO]: Albital28 joined the game
+[11:36:42] [Server thread/INFO]: [Server] maaaandale zHaaldz
+[11:37:49] [Server thread/INFO]: <Albital28> maandale
+[12:21:13] [Server thread/INFO]: [Server] zhaaldz estás por ahí?
+[12:21:26] [Server thread/INFO]: <Albital28> si
+[12:21:34] [Server thread/INFO]: <Albital28> pero cierra si quieres
+[12:21:38] [Server thread/INFO]: [Server] voy a tener q cerrarte el server en un rato
+[12:21:45] [Server thread/INFO]: <Albital28> okey
+[12:21:46] [Server thread/INFO]: [Server] porque voy a tener que hacer una llamada
+[12:21:56] [Server thread/INFO]: Albital28 lost connection: Disconnected
+[12:21:56] [Server thread/INFO]: Albital28 left the game
+[12:22:05] [Server thread/INFO]: Stopping server
+[12:22:05] [Server thread/INFO]: Saving players
+[12:22:05] [Server thread/INFO]: Saving worlds
+[12:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Baloteli World]'/minecraft:overworld
+[12:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Baloteli World]'/minecraft:the_nether
+[12:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Baloteli World]'/minecraft:the_end
+[12:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (Baloteli World): All chunks are saved
+[12:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-07-17 23:15:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2021-07-14 00:50:30 +0200"
@@ -871,6 +877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-07-17 22:43:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-07-14 00:50:30 +0200"
@@ -1263,6 +1275,7 @@
       "minecraft:taiga": "2021-07-13 23:41:42 +0200",
       "minecraft:deep_cold_ocean": "2021-07-14 23:33:13 +0200",
       "minecraft:taiga_hills": "2021-07-13 23:42:12 +0200",
+      "minecraft:desert": "2021-07-17 22:54:08 +0200",
       "minecraft:birch_forest": "2021-07-14 23:44:23 +0200",
       "minecraft:beach": "2021-07-13 23:44:22 +0200",
       "minecraft:dark_forest": "2021-07-14 23:49:55 +0200",
@@ -1402,6 +1415,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2021-07-17 22:40:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-07-13 23:47:57 +0200"
@@ -1477,6 +1496,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2021-07-14 00:21:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2021-07-17 22:45:35 +0200"
     },
     "done": true
   },
@@ -1798,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2021-07-17 22:46:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-07-14 00:41:39 +0200"
@@ -2006,7 +2037,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2021-07-15 22:17:23 +0200",
-      "minecraft:chicken": "2021-07-15 22:15:14 +0200"
+      "minecraft:chicken": "2021-07-15 22:15:14 +0200",
+      "minecraft:axolotl": "2021-07-17 23:29:31 +0200"
     },
     "done": false
   },
@@ -2187,6 +2219,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-07-14 01:18:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-07-17 22:43:29 +0200"
     },
     "done": true
   },
@@ -2436,6 +2474,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2021-07-17 23:24:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2021-07-14 00:37:18 +0200"
@@ -2532,6 +2576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2021-07-17 22:45:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-07-13 23:47:57 +0200"
@@ -2625,6 +2675,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-07-13 23:50:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-07-17 22:43:29 +0200"
     },
     "done": true
   },

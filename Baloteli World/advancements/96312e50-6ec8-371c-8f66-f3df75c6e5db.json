@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-07-17 21:22:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-07-14 22:52:56 +0200"
@@ -604,16 +610,20 @@
       "minecraft:pillager": "2021-07-16 00:51:34 +0200",
       "minecraft:blaze": "2021-07-17 00:45:31 +0200",
       "minecraft:skeleton": "2021-07-14 23:51:37 +0200",
+      "minecraft:ghast": "2021-07-17 20:52:32 +0200",
+      "minecraft:magma_cube": "2021-07-17 21:21:14 +0200",
       "minecraft:spider": "2021-07-15 00:22:36 +0200",
       "minecraft:creeper": "2021-07-15 00:06:30 +0200",
       "minecraft:slime": "2021-07-15 16:27:30 +0200",
       "minecraft:phantom": "2021-07-16 02:49:19 +0200",
+      "minecraft:witch": "2021-07-17 22:31:05 +0200",
       "minecraft:cave_spider": "2021-07-15 17:17:36 +0200",
       "minecraft:piglin": "2021-07-16 01:11:05 +0200",
       "minecraft:enderman": "2021-07-16 22:57:49 +0200",
       "minecraft:silverfish": "2021-07-16 20:00:51 +0200",
       "minecraft:zombie": "2021-07-14 23:45:05 +0200",
-      "minecraft:drowned": "2021-07-17 01:54:59 +0200"
+      "minecraft:drowned": "2021-07-17 01:54:59 +0200",
+      "minecraft:zombie_villager": "2021-07-17 20:08:25 +0200"
     },
     "done": false
   },
@@ -716,6 +726,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2021-07-17 00:57:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-07-17 22:06:24 +0200"
     },
     "done": true
   },
@@ -824,6 +840,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2021-07-17 02:02:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-07-17 22:32:59 +0200"
     },
     "done": true
   },
@@ -1278,6 +1300,7 @@
       "minecraft:mountains": "2021-07-14 23:57:57 +0200",
       "minecraft:taiga": "2021-07-14 22:52:02 +0200",
       "minecraft:taiga_hills": "2021-07-14 22:54:47 +0200",
+      "minecraft:desert": "2021-07-17 22:12:26 +0200",
       "minecraft:beach": "2021-07-14 23:53:51 +0200",
       "minecraft:dark_forest": "2021-07-15 01:10:10 +0200",
       "minecraft:river": "2021-07-14 22:54:39 +0200",
@@ -1826,6 +1849,7 @@
       "cooked_beef": "2021-07-14 23:27:24 +0200",
       "baked_potato": "2021-07-15 18:32:25 +0200",
       "porkchop": "2021-07-17 00:48:02 +0200",
+      "suspicious_stew": "2021-07-17 22:31:22 +0200",
       "salmon": "2021-07-15 22:35:50 +0200",
       "cooked_chicken": "2021-07-15 00:03:37 +0200",
       "mushroom_stew": "2021-07-17 00:44:37 +0200",
@@ -2430,6 +2454,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-07-17 00:57:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2021-07-17 23:24:21 +0200"
     },
     "done": true
   },

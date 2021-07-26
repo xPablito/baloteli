@@ -1082,6 +1082,7 @@
       "minecraft:mountains": "2021-07-14 23:02:49 +0200",
       "minecraft:forest": "2021-07-15 17:16:28 +0200",
       "minecraft:taiga": "2021-07-13 23:44:12 +0200",
+      "minecraft:desert": "2021-07-19 20:44:53 +0200",
       "minecraft:beach": "2021-07-14 00:25:20 +0200",
       "minecraft:river": "2021-07-14 00:07:25 +0200",
       "minecraft:wooded_mountains": "2021-07-15 20:13:54 +0200",
@@ -1202,6 +1203,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-07-13 23:55:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-07-19 20:02:45 +0200"
     },
     "done": true
   },
@@ -1590,6 +1597,7 @@
       "sweet_berries": "2021-07-15 01:50:38 +0200",
       "cooked_beef": "2021-07-13 23:57:33 +0200",
       "baked_potato": "2021-07-15 18:49:40 +0200",
+      "porkchop": "2021-07-19 20:38:17 +0200",
       "apple": "2021-07-15 00:18:26 +0200",
       "potato": "2021-07-15 17:33:11 +0200",
       "poisonous_potato": "2021-07-15 20:16:51 +0200",
@@ -2407,6 +2415,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2021-07-15 21:05:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-07-19 20:36:55 +0200"
     },
     "done": true
   },

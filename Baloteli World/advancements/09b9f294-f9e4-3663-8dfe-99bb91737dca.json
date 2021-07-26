@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2021-07-13 23:42:42 +0200"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-07-15 16:33:52 +0200",
@@ -489,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-07-21 12:57:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-07-13 23:53:32 +0200"
@@ -498,6 +516,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-07-14 00:24:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
     },
     "done": true
   },
@@ -639,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-07-14 00:01:48 +0200"
@@ -654,6 +684,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2021-07-15 16:24:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
     },
     "done": true
   },
@@ -759,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2021-07-21 13:35:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-07-14 00:24:36 +0200"
@@ -855,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-07-21 12:57:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2021-07-13 23:46:46 +0200"
@@ -906,6 +954,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-07-14 01:02:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-07-21 12:54:33 +0200"
     },
     "done": true
   },
@@ -1052,6 +1106,7 @@
       "minecraft:skeleton": "2021-07-14 00:01:48 +0200",
       "minecraft:spider": "2021-07-14 00:02:04 +0200",
       "minecraft:creeper": "2021-07-15 16:30:07 +0200",
+      "minecraft:witch": "2021-07-21 13:19:13 +0200",
       "minecraft:enderman": "2021-07-13 23:50:06 +0200",
       "minecraft:zombie": "2021-07-13 23:52:22 +0200",
       "minecraft:zombie_villager": "2021-07-14 01:12:10 +0200"
@@ -1256,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2021-07-14 00:49:20 +0200"
@@ -1367,6 +1428,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-07-14 01:35:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2021-07-21 13:31:35 +0200"
     },
     "done": true
   },
@@ -1586,6 +1653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-07-13 23:49:12 +0200"
@@ -1628,9 +1701,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-07-13 23:53:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
     },
     "done": true
   },
@@ -1667,6 +1752,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-07-14 00:26:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
     },
     "done": true
   },
@@ -1721,6 +1812,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-07-14 00:12:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-07-21 12:54:33 +0200"
     },
     "done": true
   },
@@ -1846,10 +1943,12 @@
       "minecraft:taiga": "2021-07-13 23:39:52 +0200",
       "minecraft:deep_cold_ocean": "2021-07-19 12:56:41 +0200",
       "minecraft:taiga_hills": "2021-07-13 23:42:28 +0200",
+      "minecraft:birch_forest": "2021-07-21 13:01:31 +0200",
       "minecraft:beach": "2021-07-13 23:48:05 +0200",
       "minecraft:dark_forest": "2021-07-14 00:53:22 +0200",
       "minecraft:river": "2021-07-13 23:55:13 +0200",
       "minecraft:lukewarm_ocean": "2021-07-15 23:46:20 +0200",
+      "minecraft:birch_forest_hills": "2021-07-21 13:03:07 +0200",
       "minecraft:wooded_mountains": "2021-07-19 12:28:46 +0200",
       "minecraft:wooded_hills": "2021-07-19 12:32:32 +0200",
       "minecraft:stone_shore": "2021-07-19 12:58:50 +0200",
@@ -2038,6 +2137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-07-21 12:57:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2021-07-13 23:56:34 +0200"
@@ -2089,6 +2194,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-07-13 23:42:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2021-07-21 12:57:47 +0200"
     },
     "done": true
   },
